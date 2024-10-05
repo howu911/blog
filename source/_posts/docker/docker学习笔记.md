@@ -1,9 +1,16 @@
 ---
 title: docker学习笔记
-date: 2024-10-05 16:20:26
 tags:
   - Docker
+categories:
+  - Docker
+abbrlink: 177bfdaa
+date: 2024-10-05 16:20:26
 ---
+
+docker学习笔记
+
+<!-- more -->
 
 # Docker概念
 
